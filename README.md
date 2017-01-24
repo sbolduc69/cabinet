@@ -20,5 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+  - This has not been configured for production.
+  - See devise instructions for production environment configuration: https://github.com/plataformatec/devise#getting-started
 
 * ...
